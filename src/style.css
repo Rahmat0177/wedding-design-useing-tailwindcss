@@ -1,3 +1,45 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+
+@font-face {
+    font-family: 'SpaceMono-Regular';
+    src: url(../public/fonts/Space_Mono/SpaceMono-Regular.ttf);
+}
+@font-face {
+    font-family: 'SpaceMono-Italic';
+    src: url(../public/fonts/Space_Mono/SpaceMono-Italic.ttf);
+}
+@font-face {
+    font-family: 'SpaceMono-Bold';
+    src: url(../public/fonts/Space_Mono/SpaceMono-Bold.ttf);
+}
+@font-face {
+    font-family: 'SpaceMono-BoldItalic';
+    src: url(../public/fonts/Space_Mono/SpaceMono-BoldItalic.ttf);
+}
+
+
+
+@font-face {
+    font-family: 'BioRhyme-Light';
+    src: url(../public/fonts/Space_Mono/BioRhyme-Light.ttf);
+}
+@font-face {
+    font-family: 'BioRhyme-ExtraLight';
+    src: url(../public/fonts/Space_Mono/BioRhyme-ExtraLight.ttf);
+}
+@font-face {
+    font-family: 'BioRhyme-Regular';
+    src: url(../public/fonts/Space_Mono/BioRhyme-Regular.ttf);
+}
+@font-face {
+    font-family: 'BioRhyme-Bold';
+    src: url(../public/fonts/Space_Mono/BioRhyme-Bold.ttf);
+}
+@font-face {
+    font-family: 'BioRhyme-ExtraBold';
+    src: url(../public/fonts/Space_Mono/BioRhyme-ExtraBold.ttf);
+}

@@ -1,0 +1,20 @@
+first color : #c28b7c
+secend color : #735241
+first font : spaceMono regular
+secend font : BioRhyme regular
+========== menu ========
+font : spaceMono regular
+size : 16px
+color : #1f1f1f
+
+font : BioRhyme regular
+size : 91px &->size : 70px
+
+days left until our day
+f-color s=50 f-font
+
+time
+f-color s=66 s-font
+
+time name
+f-font s=25 f-color
